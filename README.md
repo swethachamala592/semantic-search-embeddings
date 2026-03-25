@@ -32,3 +32,13 @@ Python is easy to learn
 - Vector embeddings
 - Semantic search
 - Basic AI system design
+
+  
+  ## 🖼️ Demo
+
+Enter your search: learning
+
+Top 3 Matches:
+1. Machine learning is interesting
+2. Learning new skills is important
+3. I enjoy learning online
