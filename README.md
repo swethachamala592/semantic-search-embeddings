@@ -33,6 +33,8 @@ Python is easy to learn
 - Semantic search
 - Basic AI system design
 
+author
+Swetha Chamala
   
   ## 🖼️ Demo
 
